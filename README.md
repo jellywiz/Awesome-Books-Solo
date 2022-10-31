@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-<!-- [Click Here](https://jellywiz.github.io/Awesome-Books/) -->
+[Click Here](https://jellywiz.github.io/Awesome-Books-Solo/)
 
 ## Getting Started
 

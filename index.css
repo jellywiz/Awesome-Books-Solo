@@ -223,3 +223,10 @@ footer p {
 .contact-section.active {
   display: block;
 }
+
+#time {
+  display: flex;
+  justify-content: end;
+  padding: 5px;
+  width: 90%;
+}

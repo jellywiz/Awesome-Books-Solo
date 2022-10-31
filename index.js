@@ -1,6 +1,6 @@
 import {
-  // eslint-disable-next-line max-len
-  inputTitle, inputAuthor, btn, listLink, addLink, contactLink, booksSection, addBookSection, contactSection,
+  inputTitle, inputAuthor, btn, listLink, addLink, contactLink,
+  booksSection, addBookSection, contactSection,
 } from './modules/elements.js';
 import { SettingBooks } from './modules/bookset.js';
 import { Book } from './modules/book.js';
